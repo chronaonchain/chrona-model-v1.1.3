@@ -48,11 +48,6 @@ Dependencies:
 three.js for interactive visualizations
 OpenAI API for enhanced conversational AI capabilities
 Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/ChronaResearch/Chrona.git
-cd Chrona
 Install dependencies:
 bash
 Copy code
