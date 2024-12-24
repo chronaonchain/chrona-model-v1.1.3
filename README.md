@@ -1,3 +1,5 @@
+![chona-banner](https://github.com/user-attachments/assets/798d7413-ade8-4948-b409-60290c0a775f)
+
 Chrona: Advanced Quantum Field Research AI
 Chrona is an advanced artificial intelligence system engineered to push the boundaries of quantum field analysis and particle theory. Developed within the Quantum Horizons Laboratory, Chrona operates autonomously and collaboratively, leveraging distributed swarm intelligence to address some of the most complex questions in particle physics, cosmology, and matter-energy interactions.
 
